@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+void quicksort(){
+    
+}
+
 main(){	
 
     cout<<"Hello world!"<<endl;
