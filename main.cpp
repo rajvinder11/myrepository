@@ -5,6 +5,16 @@ void quicksort(){
     
 }
 
+void bubblesort(){
+
+}
+
+void mergesort(){
+    
+}
+
+hello
+
 main(){	
 
     cout<<"Hello world!"<<endl;
