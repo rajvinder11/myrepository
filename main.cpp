@@ -9,11 +9,7 @@ void bubblesort(){
 
 }
 
-void mergesort(){
-    
-}
 
-hello
 
 main(){	
 
